@@ -1,0 +1,12 @@
+path: /Users/grigoriiott/Documents/Programming/test_zadanie/YoloV8_Detection/DATA
+train: train/images
+val: valid/images
+
+# Classes
+names:
+  0: javelin
+  1: javelin_with_men
+  2: kjtv
+  3: porub
+  4: pogruzchick
+  5: jsmart
